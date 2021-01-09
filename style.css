@@ -1,0 +1,45 @@
+.bodyB {
+  
+  }
+.wrapper {
+  margin: 0 auto;
+}
+.class1 {
+  
+  min-width: 500px;
+  min-height: 500px;
+  width: 20%;
+  background-color: aqua;
+}
+
+.class2 {
+  
+  
+  min-width: 500px;
+  min-height: 500px;
+  width: 20%;
+  background-color: blue;
+  
+}
+h2 {
+  text-align: center;
+  
+}
+.class3 {
+  min-width: 500px;
+  min-height: 500px;
+  width: 20%;
+  background-color: chartreuse;
+}
+.class4 {
+  min-width: 500px;
+  min-height: 500px;
+  width: 20%;
+  background-color: chocolate;
+}
+.class5 {
+  min-width: 500px;
+  min-height: 500px;
+  width: 20%;
+  background-color: orange;
+}
